@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "categories": [
+    { "id": "self-help", "name": "Self Help", "icon": "self_help", "sortOrder": 1 },
+    { "id": "engineering", "name": "Engineering", "icon": "engineering", "sortOrder": 2 },
+    { "id": "novels", "name": "Novels", "icon": "novels", "sortOrder": 3 }
+  ]
+}
